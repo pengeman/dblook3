@@ -1,0 +1,9 @@
+org/pengwt/myhome/myhome2/controller/BookMarkController.class
+org/pengwt/myhome/myhome2/Myhome2Application.class
+org/pengwt/myhome/myhome2/serviceimpl/BookMarkServiceImpl.class
+org/pengwt/myhome/myhome2/entity/CommonResult.class
+org/pengwt/myhome/myhome2/service/BookMarkService.class
+org/pengwt/myhome/myhome2/dao/BookMarkDao.class
+org/pengwt/myhome/myhome2/entity/BookMark.class
+org/pengwt/myhome/myhome2/daoimpl/BookMarkDaoImpl.class
+org/pengwt/myhome/myhome2/NewMan.class
